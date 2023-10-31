@@ -94,11 +94,31 @@ Let's explore the meaning of these empty_string ' ' values of UnitPrice column
 		- 
 */
 
-/* [06] Checking Duplicate Data
-		- Negative value in "Quantity" column
-		- 
-*/
+/* [06] Checking Duplicate Data*/
 
+-- [06].1 Checking duplicate rows
+WITH CTE AS (
+    SELECT *,
+           ROW_NUMBER() OVER (PARTITION BY InvoiceNo, StockCode, "Description", Quantity, InvoiceDate, UnitPrice, CustomerID, Country ORDER BY (SELECT NULL)) AS RowNum
+    FROM online_retail_UCI_DB..online_retail_main
+)
+
+SELECT *
+FROM CTE
+WHERE RowNum > 1
+ORDER BY RowNum DESC
+-- Result: 5268 duplicate rows, the maximum numbers of repetition is 20, and the minimum is 2.
+
+-- [06].2 Delete duplicate rows but keep one origin row still
+WITH CTE AS (
+    SELECT *,
+           ROW_NUMBER() OVER (PARTITION BY InvoiceNo, StockCode, "Description", Quantity, InvoiceDate, UnitPrice, CustomerID, Country ORDER BY (SELECT NULL)) AS RowNum
+    FROM online_retail_UCI_DB..online_retail_main
+)
+
+DELETE FROM CTE
+WHERE RowNum > 1
+	
 /* [07] Checking Data Type Issues
 		- Negative value in "Quantity" column
 		- 
