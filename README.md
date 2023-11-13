@@ -7,8 +7,8 @@
 
 ![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/1ea9192a-7ac9-4f40-aec9-e7da49715d52)
 
-
-
+</p>
+</details> 
 
 **Inventory Management Dashboard**
 
