@@ -1,20 +1,15 @@
-# Online_Retail_Analysis
+# Online_Retail_Dashboards
 
 **Home Page**
-
-![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/e2c2941a-aab2-4118-9f5d-db2b7f422a45)
-
-
+![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/1ea9192a-7ac9-4f40-aec9-e7da49715d52)
 
 **Inventory Management Dashboard**
 
-![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/3ba121c0-af57-47f1-ab24-c9fc13e0e6e0)
-
-
+![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/6d1e7d55-d757-4a75-a4ac-f6754f53d91e)
 
 **Sale Performance Dashboard**
 
-![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/b43abe92-e699-4e4a-b06f-932dd7df84c4)
+![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/ff64ec62-3dcf-4b22-add3-5131a7a912ed)
 
 
 
