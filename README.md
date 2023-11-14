@@ -1,13 +1,3 @@
-# Online_Retail_Dashboards
-
-**Inventory Management Dashboard**
-
-![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/6d1e7d55-d757-4a75-a4ac-f6754f53d91e)
-
-**Sale Performance Dashboard**
-
-![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/ff64ec62-3dcf-4b22-add3-5131a7a912ed)
-
 **1 - Project Objective**
 <details><summary>Details</summary>
 <p>
@@ -51,3 +41,13 @@ Despite the comprehensive analysis, the project acknowledged limitations related
 In essence, this project not only provided actionable recommendations for UCI's growth strategies but also underscored the critical importance of maintaining a clean and standardized dataset for reliable and effective data-driven decision-making in the business context.
 </p>
 </details> 
+
+**4 - Inventory Management Dashboard**
+
+![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/6d1e7d55-d757-4a75-a4ac-f6754f53d91e)
+
+**5 - Sale Performance Dashboard**
+
+![image](https://github.com/Huyen-P/UCI_Online_Retail_Analysis/assets/72473316/ff64ec62-3dcf-4b22-add3-5131a7a912ed)
+
+
