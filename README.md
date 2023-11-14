@@ -3,8 +3,8 @@
 <p>
   
 The author will play as a data analyst role, who will process the dataset from start to end to 
-provide valuable Power BI dashboard serving for strategic purpose of the business.
-propose the most appropriated strategies/ recommendations to boost the company growth.
+- provide valuable Power BI dashboard serving for strategic purpose of the business.
+- propose the most appropriated strategies/ recommendations to boost the company growth.
 
 </p>
 </details> 
