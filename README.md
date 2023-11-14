@@ -3,7 +3,7 @@
 <p>
   
 The author will play as a data analyst role, who will process the dataset from start to end to 
-- provide valuable Power BI dashboard serving for strategic purpose of the business.
+- provide valuable Power BI dashboards serving for strategic purpose of the business.
 - propose the most appropriated strategies/ recommendations to boost the company growth.
 
 </p>
@@ -34,7 +34,8 @@ Since the initial result from this EDA stage indicate that the dataset mainly in
 **3 - Conclusion**
 <details><summary>Details</summary>
 <p>
-- In conclusion, this project centered on the analysis of a retail dataset with the objective of providing valuable insights through Power BI dashboards to strategically support the growth of a non-store UK company, UCI. 
+  
+- In conclusion, this project centered on the analysis of a retail dataset with the objective of providing valuable insights through Power BI dashboards to strategically support the growth of a non-store UK company, UCI.
 - The data wrangling process involved a meticulous review of the dataset, SQL analysis, and categorization into 5 data groups including sales, cancellations, duplicates, test cases, and vague rows. The main research question focused on identifying beneficial business strategies for UCI's growth in the coming year, with sub-questions addressing inventory management and sales optimization.
 - The descriptive data analysis delved into inventory management and sales performance, utilizing features such as Demand, MeanDemand, Revenue, and others. Power BI dashboards, including Inventory Management and Sale Performance, were constructed to visualize insights derived from the analysis. The discussion highlighted the importance of considering both sales and cancellation data for precise evaluation, as exemplified by the distinction between demand and sold revenue or quantity for the highest-demand product with StockCode "84879" (ASSORTED COLOR BIRD ORNAMENT) during the period from December 1, 2010, to December 9, 2011. However, the provided dashboards can be used to analyze relevant insights for any products in the dataset, depending on the specific requirements of the business.
 - Despite the comprehensive analysis, the project acknowledged limitations related to inconsistent UnitPrices for products with the same StockCode in the dataset. To address these challenges, a call for a robust data improvement process was emphasized, involving meticulous cleaning, standardization, validation, and thorough documentation to ensure data integrity, boost decision-making confidence, enhance model reliability, and improve overall operational efficiency.
